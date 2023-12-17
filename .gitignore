@@ -1,0 +1,11 @@
+vendor
+composer.lock
+
+# IntelliJ IDEA project files
+/.idea
+
+#composer auth file
+auth.json
+
+#PHPUnit report
+/tmp
